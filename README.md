@@ -1,15 +1,35 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Georgiy
 ===============================================================================================================================
 
-QA Engineer
------------
+## My CV
 
-* 🌍  I'm based in Yerevan
-* 🖥️  See my portfolio at [CV](http://cv.hexlet.io/ru/resumes/2189)
-* ✉️  You can contact me at [georgsomov1997@gmail.com](mailto:georgsomov1997@gmail.com)
+[SomovGeorgiy](https://cv.hexlet.io/ru/resumes/2189)
 
-<a href="https://www.github.com/Soomario" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Soomario?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## Tools and Technologies
+
+<p align="left">
+<a href="https://devtools.com/">
+<img src="https://example.com/devtools-icon.png" alt="DevTools" width="50" height="50" />
+</a>
+<a href="https://git.com/">
+<img src="https://example.com/git-icon.png" alt="Git" width="50" height="50" />
+</a>
+<a href="https://github.com/">
+<img src="https://example.com/github-icon.png" alt="GitHub" width="50" height="50" />
+</a>
+<a href="https://atlassian.com/jira">
+<img src="https://example.com/jira-icon.png" alt="Jira" width="50" height="50" />
+</a>
+<a href="https://atlassian.com/confluence">
+<img src="https://example.com/confluence-icon.png" alt="Confluence" width="50" height="50" />
+</a>
+<a href="https://miro.com/">
+<img src="https://example.com/miro-icon.png" alt="Miro" width="50" height="50" />
+</a>
+<a href="https://trello.com/">
+<img src="https://example.com/trello-icon.png" alt="Trello" width="50" height="50" />
+</a>
+</p>
 
 ### Socials
 

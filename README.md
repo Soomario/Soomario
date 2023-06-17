@@ -52,7 +52,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 <a href="
 
-
 ### Socials
 
 [![LinkedIn: Georgiy Somov](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgiy-somov-509823265/)

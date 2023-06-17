@@ -1,9 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Георгий, и я QA-инженер. Каждый день я активно развиваюсь в своей области, пока другие отдыхают!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Georgiy, and I am a QA Engineer. Every day, while others are resting, I actively develop my skills in the field!
+
 ===============================================================================================================================
 
 ## My CV
 
-[CV](https://cv.hexlet.io/ru/resumes/2189)
+[SomovGeorgiy](https://cv.hexlet.io/ru/resumes/2189)
+
 ===============================================================================================================================
 
 
@@ -59,3 +61,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![LinkedIn: Georgiy Somov](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgiy-somov-509823265/)
 [![Instagram: somariogeorgiy](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](http://www.instagram.com/somariogeorgiy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Somario)
+

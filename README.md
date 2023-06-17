@@ -17,10 +17,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/">
 <img src="https://example.com/github-icon.png" alt="GitHub" width="50" height="50" />
 </a>
-<a href="https://atlassian.com/jira">
+<a href="https://www.atlassian.com/software/jira">
 <img src="https://example.com/jira-icon.png" alt="Jira" width="50" height="50" />
 </a>
-<a href="https://atlassian.com/confluence">
+<a href="https://www.atlassian.com/software/confluence">
 <img src="https://example.com/confluence-icon.png" alt="Confluence" width="50" height="50" />
 </a>
 <a href="https://miro.com/">

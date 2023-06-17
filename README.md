@@ -8,28 +8,50 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Tools and Technologies
 
 <p align="left">
-<a href="https://devtools.com/">
-<img src="https://example.com/devtools-icon.png" alt="DevTools" width="50" height="50" />
+<a href="https://qase.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
 </a>
-<a href="https://git.com/">
-<img src="https://example.com/git-icon.png" alt="Git" width="50" height="50" />
+<a href="https://testit.software/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
 </a>
-<a href="https://github.com/">
-<img src="https://example.com/github-icon.png" alt="GitHub" width="50" height="50" />
+<a href="https://www.gurock.com/testrail">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
-<a href="https://www.atlassian.com/software/jira">
-<img src="https://example.com/jira-icon.png" alt="Jira" width="50" height="50" />
+<a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
 </a>
-<a href="https://www.atlassian.com/software/confluence">
-<img src="https://example.com/confluence-icon.png" alt="Confluence" width="50" height="50" />
+<a href="https://www.charlesproxy.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
-<a href="https://miro.com/">
-<img src="https://example.com/miro-icon.png" alt="Miro" width="50" height="50" />
+<a href="https://www.telerik.com/fiddler">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" />
 </a>
-<a href="https://trello.com/">
-<img src="https://example.com/trello-icon.png" alt="Trello" width="50" height="50" />
+<a href="https://proxyman.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Proxyman.png" alt="Proxyman" width="50" height="50" />
 </a>
-</p>
+<a href="https://grafana.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
+</a>
+<a href="https://firebase.google.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Firebase.png" alt="Firebase" width="50" height="50" />
+</a>
+<a href="https://sentry.io/welcome/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Sentry.png" alt="Sentry" width="50" height="50" />
+</a>
+<a href="https://amplitude.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Amplitude.png" alt="Amplitude" width="90" height="50" />
+</a>
+<a href="https://codemagic.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Codemagic.png" alt="Codemagic" width="50" height="50" />
+</a>
+<a href="https://www.jetbrains.com/teamcity/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="TeamCity" width="50" height="50" />
+</a>
+<a href="https://developer.apple.com/testflight/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
+</a>
+<a href="
+
 
 ### Socials
 

@@ -52,11 +52,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 <a href="
 
-### Socials
+
+## Socials
 
 [![LinkedIn: Georgiy Somov](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgiy-somov-509823265/)
 [![Instagram: somariogeorgiy](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](http://www.instagram.com/somariogeorgiy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Somario)
 
-
-### Badges

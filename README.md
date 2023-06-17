@@ -5,6 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [SomovGeorgiy](https://cv.hexlet.io/ru/resumes/2189)
 
+
+
 ## Tools and Technologies
 
 
